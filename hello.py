@@ -1,3 +1,5 @@
+# 1. Write a Python program to sum all the items in a list.
+
 def itemSum(x):
     y = 0
     for i in x:
